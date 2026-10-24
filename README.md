@@ -1,3 +1,9 @@
+<!-- GSVS-REPOSITORY-MIGRATION -->
+> **New repository home:** This project moved from `xboxnuker-rgb/collection-log-exporter` to
+> [GSVS-UK-ACM/collection-log-exporter](https://github.com/GSVS-UK-ACM/collection-log-exporter).
+> Existing GitHub links redirect here. Continue using this repository under its
+> organisation address. Existing local checkouts can keep their folders.
+
 # Collection Log Exporter
 
 <img src="icon.png" alt="Plugin icon" width="48" height="48">
